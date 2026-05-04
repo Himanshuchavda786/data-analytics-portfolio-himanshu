@@ -52,7 +52,7 @@ I build real-world **data analytics dashboards, machine learning projects, and A
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Himanshuchavda786&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuchavda786&layout=compact)
 ---
 
 ## 🏆 Project Highlights
