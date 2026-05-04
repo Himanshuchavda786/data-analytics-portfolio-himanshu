@@ -50,11 +50,6 @@ I build real-world **data analytics dashboards, machine learning projects, and A
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuchavda786&layout=compact)
----
-
 ## 🏆 Project Highlights
 
 - 📊 Multiple real-world dashboards (Zomato, Spotify, Uber)  
